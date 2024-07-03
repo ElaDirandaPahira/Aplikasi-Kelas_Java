@@ -1,5 +1,6 @@
 # Aplikasi-Kelas_Java
-Aplikasi kelas berbasis Java. Terdiri dari beberapa fitur yang dapat membantu dalam pendataan kelas
+Project ini dibuat sebagai syarat menyelesaikan mata kuliah "Pemograman Objek Berbasis Java".
+Aplikasi kelas ini terdiri dari beberapa fitur yang dapat membantu dalam pendataan kelas.
 
 ![WhatsApp Image 2024-07-03 at 12 10 09](https://github.com/ElaDirandaPahira/Aplikasi-Kelas_Java/assets/96612296/b643741a-b12a-42f2-9940-e46ca61cdbd4)
 ![WhatsApp Image 2024-07-03 at 12 10 09 (1)](https://github.com/ElaDirandaPahira/Aplikasi-Kelas_Java/assets/96612296/a500e1ec-615b-40b8-9320-0b04330267b6)
